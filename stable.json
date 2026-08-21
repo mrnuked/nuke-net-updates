@@ -1,7 +1,7 @@
 {
-    "version":  "0.5.4",
-    "downloadUrl":  "https://github.com/mrnuked/nuke-net-updates/releases/download/v0.5.4/NukeNet-Setup-0.5.4.exe",
-    "releaseNotesUrl":  "https://github.com/mrnuked/nuke-net-updates/releases/tag/v0.5.4",
-    "sha256":  "e484b274de970c15372e9557e3ff0b672813c585fd9ac3f3770bfcedd418106f",
-    "publishedAt":  "2026-07-29T20:08:39.0781236+00:00"
+  "version": "0.6.1",
+  "downloadUrl": "https://github.com/mrnuked/nuke-net-updates/releases/download/v0.6.1/NukeNet-Setup-0.6.1.exe",
+  "releaseNotesUrl": "https://github.com/mrnuked/nuke-net-updates/releases/tag/v0.6.1",
+  "sha256": "312f5f7e03e4bdfce36e53df7055d8cd76694c0161b1140537a6ad589a52f381",
+  "publishedAt": "2026-08-21T09:34:50Z"
 }
